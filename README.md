@@ -7,3 +7,5 @@ then editing my first file :octocat:
 
 Editing after someone worked on a feature branch on his For :weary:
 He should fetch thi!
+
+MASTER MODIFICATION
